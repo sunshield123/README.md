@@ -1,25 +1,18 @@
 <div id="header" align="center">
-  <h1> Hi 👋 I'm Sudheer Jonna.</h1>
+  <h1> Hi 👋 I'm Srinivas Nayak Sulliapadavu</h1>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/sudheer-jonna-b9009142/">
+    <a href="https://www.linkedin.com/in/srinivas-nayak-07774bba/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/SudheerJonna">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=sudheerj&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
 
 ### 💻 &nbsp; About Me :
-I am a Full Stack IT consultant, Author, Speaker & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
-- I’m working as a Senior IT consultant and building large scale web applications.
+I am a UI Developer tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
+- I’m working as a UI Developer and building large scale web applications.
 
-- Authoring and blogging about emerging technologies.
-
-- Share knowledge through meetups and twitter.
 
 ---
 
@@ -43,11 +36,6 @@ I am a Full Stack IT consultant, Author, Speaker & open source tech enthusiast <
 </div>
 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=vision-friendly-dark)](https://github.com/sudheerj/github-readme-stats)
 
 ---
 
